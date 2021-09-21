@@ -1,0 +1,56 @@
+body {
+    background-color: #CCCC;
+}
+
+#label_padrao{
+    color: royalblue;
+    margin: 10px 10px;
+}
+
+li{
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    font-weight: bold;
+}
+
+h1{
+    color: royalblue;
+}
+
+input[type=text] {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: #000;
+    color: #FFFF;
+}
+
+select {
+    width: 50%;
+    padding: 16px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+}
+
+input[type=submit], input[type=reset]{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+textarea {
+    width: 50%;
+    height: 50%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
