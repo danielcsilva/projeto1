@@ -1,3 +1,6 @@
 git init  # inicialização de repositorio 
 git add . ou git add file.extensão # adicionar arquivos unstage
 git commit -m "mensagem" # o que você fez, o que leve esse commit
+
+git merge # mesclagem de branchs
+
