@@ -4,3 +4,5 @@ git commit -m "mensagem" # o que você fez, o que leve esse commit
 
 git merge # mesclagem de branchs
 
+
+modifiquei o arquvio de descrição
