@@ -4,3 +4,6 @@ git commit -m "mensagem" # o que você fez, o que leve esse commit
 
 git merge # mesclagem de branchs
 
+
+aqui adicionei o texto da branch2
+para gerar um conflito
