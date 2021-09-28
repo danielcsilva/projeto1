@@ -6,3 +6,7 @@ git merge # mesclagem de branchs
 
 
 modifiquei o arquvio de descrição
+
+aqui adicionei o texto da branch2
+
+para gerar um conflito
